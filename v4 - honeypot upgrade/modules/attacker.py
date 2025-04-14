@@ -1,0 +1,55 @@
+# modules/attacker.py
+import random
+import logging
+from datetime import datetime
+
+logger = logging.getLogger("MTD")
+
+class Attacker:
+    def __init__(self):
+        self.attack_log_file = "attack_log.txt"
+        self.mtd_log_file = "mtd_log.txt"
+        self.target_ip = None
+        self.honeypot_hits = 0
+        self.history = []
+
+    def simulate_intrusion(self, defender_map, honeypot_ips=None):
+        if not defender_map:
+            return False
+
+        attack_success = False
+        scanned_ips = list(defender_map.values())
+        for ip in scanned_ips:
+            for port in random.sample(range(20, 1025), 10):  # 샘플링 포트
+                is_open = random.random() < 0.03  # 3% 확률로 open
+                self._log_scan(ip, port, is_open)
+
+                if is_open:
+                    attack_success = True
+                    self._log_detection(ip, port)
+                    self.history.append(ip)
+
+                    if honeypot_ips and ip in honeypot_ips:
+                        self.honeypot_hits += 1
+                        self._log_honeypot(ip, port)
+
+        return attack_success
+
+    def _log_scan(self, ip, port, success):
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        result = "Open" if success else "Closed"
+        log_line = f"[{timestamp}] [Attacker] Scanned IP: {ip}, Port: {port}, Result: {result}\n"
+        with open(self.attack_log_file, "a") as log:
+            log.write(log_line)
+
+    def _log_detection(self, ip, port):
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        line = f"[{timestamp}] [Detection] Attack Detected - IP: {ip}, Port: {port}\n"
+        with open(self.mtd_log_file, "a") as log:
+            log.write(line)
+
+    def _log_honeypot(self, ip, port):
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        line = f"[{timestamp}] [Honeypot Detection] IP: {ip}, Port: {port}\n"
+        with open(self.mtd_log_file, "a") as log:
+            log.write(line)

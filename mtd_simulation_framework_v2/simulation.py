@@ -7,40 +7,32 @@ from datetime import datetime
 import random
 import time
 
-# 초기 구성
+# 구성 초기화
 topo = TopologyBuilder("topo/topology_json/default.json")
-defender = MTDDefender()
+defender = MTDDefender(mode='mtd+honeypot+decoy')
 attacker = Attacker()
 evaluator = Evaluator()
 
-drone_ids = ["realdrone1", "realdrone2", "honeydrone1", "honeydrone2"]
+drone_ids = ["realdrone1", "realdrone2", "realdrone3", "honeydrone1", "honeydrone2"]
+attack_types = ["mitm", "ddos", "wormhole", "blackhole", "replay"]
 
-# 시뮬레이션 루프
-for step in range(5):
-    print(f"\n===== SIMULATION STEP {step + 1} =====")
+# 시뮬레이션 반복
+total_steps = 15
+for step in range(total_steps):
+    print(f"\n===== SIMULATION STEP {step + 1}/{total_steps} =====")
     target = random.choice(drone_ids)
-    attacker.trigger_attack(target)
+    attack_type = random.choice(attack_types)
 
-    # 위협 대응 시뮬레이션
-    if target.startswith("honey"):
-        defender.defend_mitm()
-        defender.defend_ddos()
-    else:
-        defender.defend_blackhole()
+    attacker.trigger_attack(target, attack_type)
+    metrics = defender.respond_to(attack_type, target)
 
-    # 평가 기록
     evaluator.log_event(
         timestamp=datetime.now().isoformat(),
         drone_id=target,
-        diversity=random.uniform(0.7, 1.0),
-        redundancy=random.uniform(0.5, 1.0),
-        shuffle_efficiency=random.uniform(0.6, 1.0),
-        energy=random.randint(5, 20),
-        lure_rate=random.uniform(0.3, 0.9),
-        deception_time=random.randint(10, 60)
+        **metrics
     )
-    time.sleep(2)
+    time.sleep(1)
 
-# 평가 저장
+# 결과 저장 및 요약 출력
 evaluator.save_to_csv()
 evaluator.compute_metrics()

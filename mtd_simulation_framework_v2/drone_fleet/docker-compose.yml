@@ -12,7 +12,19 @@ services:
       - "2222:22"
       - "8080:80"
     environment:
-      - DECOY=true
+      - ROLE=honeypot
+
+  honeydrone2:
+    build: .
+    container_name: honeydrone2
+    networks:
+      drone_net:
+        ipv4_address: 172.20.0.13
+    ports:
+      - "2223:22"
+      - "8081:80"
+    environment:
+      - ROLE=honeypot
 
   realdrone1:
     build: .
@@ -31,15 +43,6 @@ services:
         ipv4_address: 172.20.0.12
     environment:
       - ROLE=mission
-
-  honeydrone2:
-    build: .
-    container_name: honeydrone2
-    networks:
-      drone_net:
-        ipv4_address: 172.20.0.13
-    environment:
-      - DECOY=true
 
 networks:
   drone_net:

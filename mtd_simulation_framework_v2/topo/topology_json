@@ -1,15 +1,16 @@
 {
   "nodes": [
-    {"id": "realdrone1", "type": "real"},
-    {"id": "realdrone2", "type": "real"},
-    {"id": "realdrone3", "type": "real"},
-    {"id": "honeydrone1", "type": "honeypot"},
-    {"id": "honeydrone2", "type": "honeypot"}
+    { "id": "realdrone1", "type": "real" },
+    { "id": "realdrone2", "type": "real" },
+    { "id": "realdrone3", "type": "real" },
+    { "id": "honeydrone1", "type": "honeypot" },
+    { "id": "honeydrone2", "type": "honeypot" }
   ],
   "edges": [
-    {"source": "realdrone1", "target": "realdrone2"},
-    {"source": "realdrone2", "target": "realdrone3"},
-    {"source": "realdrone2", "target": "honeydrone1"},
-    {"source": "honeydrone1", "target": "honeydrone2"}
+    { "source": "realdrone1", "target": "realdrone2" },
+    { "source": "realdrone2", "target": "realdrone3" },
+    { "source": "realdrone1", "target": "honeydrone1" },
+    { "source": "realdrone2", "target": "honeydrone2" },
+    { "source": "honeydrone1", "target": "honeydrone2" }
   ]
 }

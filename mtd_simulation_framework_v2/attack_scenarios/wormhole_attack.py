@@ -7,9 +7,9 @@ class WormholeAttack:
         self.exit = exit_node
 
     def execute(self):
-        print(f"[WORMHOLE] Establishing tunnel between {self.entry} and {self.exit}...")
-        for _ in range(5):
-            print(f"[WORMHOLE] Tunneling packets: {self.entry} <--> {self.exit}")
+        print(f"[WORMHOLE] Tunnel simulation: {self.entry} <--> {self.exit}")
+        for _ in range(10):
+            print(f"[WORMHOLE] Traffic tunneled between {self.entry} and {self.exit}")
             time.sleep(1)
 
 if __name__ == "__main__":

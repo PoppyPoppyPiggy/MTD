@@ -1,0 +1,526 @@
+[2025-04-14 16:20:40] [Defender] Honeypot assigned → Datapath 5 → 10.0.0.14
+[2025-04-14 16:20:40] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 0 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:20:40] [Detection] Attack Detected - IP: 10.0.0.27, Port: 266
+[2025-04-14 16:20:40] [Detection] Attack Detected - IP: 10.0.0.20, Port: 504
+[2025-04-14 16:20:40] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.31
+[2025-04-14 16:20:40] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.24
+[2025-04-14 16:20:40] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.23
+[2025-04-14 16:20:40] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.32
+[2025-04-14 16:20:40] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.14
+[2025-04-14 16:20:40] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 5 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:20:45] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 5 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:20:45] [Detection] Attack Detected - IP: 10.0.0.24, Port: 913
+[2025-04-14 16:20:45] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.18
+[2025-04-14 16:20:45] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.10
+[2025-04-14 16:20:45] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.16
+[2025-04-14 16:20:45] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.13
+[2025-04-14 16:20:45] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.15
+[2025-04-14 16:20:45] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 10 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:20:50] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 10 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:20:50] [Detection] Attack Detected - IP: 10.0.0.18, Port: 756
+[2025-04-14 16:20:50] [Detection] Attack Detected - IP: 10.0.0.15, Port: 244
+[2025-04-14 16:20:50] [Honeypot Detection] IP: 10.0.0.15, Port: 244
+[2025-04-14 16:20:50] [Honeypot Detection] IP: 10.0.0.15, Port: unknown
+[2025-04-14 16:20:50] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.29
+[2025-04-14 16:20:50] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.9
+[2025-04-14 16:20:50] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.8
+[2025-04-14 16:20:50] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.11
+[2025-04-14 16:20:50] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.18
+[2025-04-14 16:20:50] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 15 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:20:55] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 15 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:20:55] [Detection] Attack Detected - IP: 10.0.0.29, Port: 784
+[2025-04-14 16:20:55] [Detection] Attack Detected - IP: 10.0.0.9, Port: 365
+[2025-04-14 16:20:55] [Detection] Attack Detected - IP: 10.0.0.8, Port: 540
+[2025-04-14 16:20:55] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.24
+[2025-04-14 16:20:55] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.20
+[2025-04-14 16:20:55] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.17
+[2025-04-14 16:20:55] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.16
+[2025-04-14 16:20:55] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.12
+[2025-04-14 16:20:55] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 20 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:00] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 20 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:00] [Detection] Attack Detected - IP: 10.0.0.24, Port: 895
+[2025-04-14 16:21:00] [Detection] Attack Detected - IP: 10.0.0.17, Port: 931
+[2025-04-14 16:21:00] [Detection] Attack Detected - IP: 10.0.0.16, Port: 113
+[2025-04-14 16:21:00] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.8
+[2025-04-14 16:21:00] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.10
+[2025-04-14 16:21:00] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.5
+[2025-04-14 16:21:00] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.27
+[2025-04-14 16:21:00] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.16
+[2025-04-14 16:21:00] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 25 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:05] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 25 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:10] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 25 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:10] [Detection] Attack Detected - IP: 10.0.0.5, Port: 429
+[2025-04-14 16:21:10] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.25
+[2025-04-14 16:21:10] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.26
+[2025-04-14 16:21:10] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.20
+[2025-04-14 16:21:10] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.29
+[2025-04-14 16:21:10] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.12
+[2025-04-14 16:21:10] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 30 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:15] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 30 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:20] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 30 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:25] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 30 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:25] [Detection] Attack Detected - IP: 10.0.0.26, Port: 756
+[2025-04-14 16:21:25] [Detection] Attack Detected - IP: 10.0.0.12, Port: 501
+[2025-04-14 16:21:25] [Honeypot Detection] IP: 10.0.0.12, Port: 501
+[2025-04-14 16:21:25] [Honeypot Detection] IP: 10.0.0.12, Port: unknown
+[2025-04-14 16:21:25] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.16
+[2025-04-14 16:21:25] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.26
+[2025-04-14 16:21:25] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.18
+[2025-04-14 16:21:25] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.17
+[2025-04-14 16:21:25] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.20
+[2025-04-14 16:21:25] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 35 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:30] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 35 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:30] [Detection] Attack Detected - IP: 10.0.0.26, Port: 334
+[2025-04-14 16:21:30] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.15
+[2025-04-14 16:21:30] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.10
+[2025-04-14 16:21:30] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.2
+[2025-04-14 16:21:30] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.16
+[2025-04-14 16:21:30] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.8
+[2025-04-14 16:21:30] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 40 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:35] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 40 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:40] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 40 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:45] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 40 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:45] [Detection] Attack Detected - IP: 10.0.0.15, Port: 659
+[2025-04-14 16:21:45] [Detection] Attack Detected - IP: 10.0.0.10, Port: 210
+[2025-04-14 16:21:45] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.15
+[2025-04-14 16:21:45] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.16
+[2025-04-14 16:21:45] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.30
+[2025-04-14 16:21:45] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.2
+[2025-04-14 16:21:45] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.29
+[2025-04-14 16:21:45] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 45 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:50] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 45 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:50] [Detection] Attack Detected - IP: 10.0.0.30, Port: 669
+[2025-04-14 16:21:50] [Detection] Attack Detected - IP: 10.0.0.2, Port: 72
+[2025-04-14 16:21:50] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.26
+[2025-04-14 16:21:50] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.3
+[2025-04-14 16:21:50] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.7
+[2025-04-14 16:21:50] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.25
+[2025-04-14 16:21:50] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.1
+[2025-04-14 16:21:50] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 50 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:21:55] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 50 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:00] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 50 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:00] [Detection] Attack Detected - IP: 10.0.0.1, Port: 978
+[2025-04-14 16:22:00] [Honeypot Detection] IP: 10.0.0.1, Port: 978
+[2025-04-14 16:22:00] [Honeypot Detection] IP: 10.0.0.1, Port: unknown
+[2025-04-14 16:22:00] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.17
+[2025-04-14 16:22:00] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.2
+[2025-04-14 16:22:00] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.1
+[2025-04-14 16:22:00] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.31
+[2025-04-14 16:22:00] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.20
+[2025-04-14 16:22:00] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 55 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:05] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 55 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:10] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 55 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:10] [Detection] Attack Detected - IP: 10.0.0.17, Port: 774
+[2025-04-14 16:22:10] [Detection] Attack Detected - IP: 10.0.0.20, Port: 1009
+[2025-04-14 16:22:10] [Honeypot Detection] IP: 10.0.0.20, Port: 1009
+[2025-04-14 16:22:10] [Honeypot Detection] IP: 10.0.0.20, Port: unknown
+[2025-04-14 16:22:10] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.24
+[2025-04-14 16:22:10] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.21
+[2025-04-14 16:22:10] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.28
+[2025-04-14 16:22:10] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.10
+[2025-04-14 16:22:10] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.25
+[2025-04-14 16:22:10] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 60 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:15] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 60 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:15] [Detection] Attack Detected - IP: 10.0.0.24, Port: 1004
+[2025-04-14 16:22:15] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.4
+[2025-04-14 16:22:15] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.25
+[2025-04-14 16:22:15] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.25
+[2025-04-14 16:22:15] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.26
+[2025-04-14 16:22:15] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.5
+[2025-04-14 16:22:15] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 65 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:20] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 65 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:25] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 65 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:25] [Detection] Attack Detected - IP: 10.0.0.26, Port: 396
+[2025-04-14 16:22:25] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.10
+[2025-04-14 16:22:25] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.24
+[2025-04-14 16:22:25] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.24
+[2025-04-14 16:22:25] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.27
+[2025-04-14 16:22:25] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.30
+[2025-04-14 16:22:25] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 70 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:30] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 70 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:30] [Detection] Attack Detected - IP: 10.0.0.24, Port: 27
+[2025-04-14 16:22:30] [Detection] Attack Detected - IP: 10.0.0.24, Port: 69
+[2025-04-14 16:22:30] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.19
+[2025-04-14 16:22:30] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.27
+[2025-04-14 16:22:30] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.6
+[2025-04-14 16:22:30] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.11
+[2025-04-14 16:22:30] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.13
+[2025-04-14 16:22:30] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 75 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:35] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 75 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:35] [Detection] Attack Detected - IP: 10.0.0.19, Port: 176
+[2025-04-14 16:22:35] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.21
+[2025-04-14 16:22:35] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.6
+[2025-04-14 16:22:35] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.32
+[2025-04-14 16:22:35] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.25
+[2025-04-14 16:22:35] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.13
+[2025-04-14 16:22:35] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 80 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:40] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 80 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:45] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 80 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:45] [Detection] Attack Detected - IP: 10.0.0.13, Port: 454
+[2025-04-14 16:22:45] [Honeypot Detection] IP: 10.0.0.13, Port: 454
+[2025-04-14 16:22:45] [Honeypot Detection] IP: 10.0.0.13, Port: unknown
+[2025-04-14 16:22:45] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.9
+[2025-04-14 16:22:45] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.8
+[2025-04-14 16:22:45] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.2
+[2025-04-14 16:22:45] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.5
+[2025-04-14 16:22:45] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.8
+[2025-04-14 16:22:45] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 85 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:50] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 85 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:22:50] [Detection] Attack Detected - IP: 10.0.0.9, Port: 382
+[2025-04-14 16:22:50] [Detection] Attack Detected - IP: 10.0.0.8, Port: 171
+[2025-04-14 16:22:50] [Honeypot Detection] IP: 10.0.0.8, Port: 171
+[2025-04-14 16:22:50] [Detection] Attack Detected - IP: 10.0.0.8, Port: 918
+[2025-04-14 16:22:50] [Honeypot Detection] IP: 10.0.0.8, Port: 918
+[2025-04-14 16:22:50] [Detection] Attack Detected - IP: 10.0.0.5, Port: 963
+[2025-04-14 16:22:50] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.25
+[2025-04-14 16:22:50] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.10
+[2025-04-14 16:22:50] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.16
+[2025-04-14 16:22:50] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.5
+[2025-04-14 16:22:50] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.15
+[2025-04-14 16:22:50] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 90 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:25] [Defender] Honeypot assigned → Datapath 5 → 10.0.0.20
+[2025-04-14 16:53:25] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 0 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:30] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 0 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:30] [Detection] Attack Detected - IP: 10.0.0.23, Port: 450
+[2025-04-14 16:53:30] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.13
+[2025-04-14 16:53:30] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.16
+[2025-04-14 16:53:30] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.8
+[2025-04-14 16:53:30] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.2
+[2025-04-14 16:53:30] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.17
+[2025-04-14 16:53:30] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 5 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:35] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 5 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:35] [Detection] Attack Detected - IP: 10.0.0.13, Port: 510
+[2025-04-14 16:53:35] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.30
+[2025-04-14 16:53:35] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.2
+[2025-04-14 16:53:35] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.19
+[2025-04-14 16:53:35] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.1
+[2025-04-14 16:53:35] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.13
+[2025-04-14 16:53:35] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 10 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:40] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 10 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:40] [Detection] Attack Detected - IP: 10.0.0.19, Port: 656
+[2025-04-14 16:53:40] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.6
+[2025-04-14 16:53:40] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.11
+[2025-04-14 16:53:40] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.18
+[2025-04-14 16:53:40] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.15
+[2025-04-14 16:53:40] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.2
+[2025-04-14 16:53:40] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 15 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:45] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 15 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:45] [Detection] Attack Detected - IP: 10.0.0.15, Port: 331
+[2025-04-14 16:53:46] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.29
+[2025-04-14 16:53:46] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.13
+[2025-04-14 16:53:46] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.17
+[2025-04-14 16:53:46] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.17
+[2025-04-14 16:53:46] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.17
+[2025-04-14 16:53:46] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 20 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:50] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 20 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:51] [Detection] Attack Detected - IP: 10.0.0.17, Port: 184
+[2025-04-14 16:53:51] [Honeypot Detection] IP: 10.0.0.17, Port: 184
+[2025-04-14 16:53:51] [Detection] Attack Detected - IP: 10.0.0.17, Port: 201
+[2025-04-14 16:53:51] [Honeypot Detection] IP: 10.0.0.17, Port: 201
+[2025-04-14 16:53:51] [Detection] Attack Detected - IP: 10.0.0.17, Port: 514
+[2025-04-14 16:53:51] [Honeypot Detection] IP: 10.0.0.17, Port: 514
+[2025-04-14 16:53:51] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.14
+[2025-04-14 16:53:51] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.12
+[2025-04-14 16:53:51] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.9
+[2025-04-14 16:53:51] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.25
+[2025-04-14 16:53:51] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.10
+[2025-04-14 16:53:51] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 25 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:53] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 25 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:53] [Detection] Attack Detected - IP: 10.0.0.14, Port: 851
+[2025-04-14 16:53:53] [Detection] Attack Detected - IP: 10.0.0.12, Port: 946
+[2025-04-14 16:53:53] [Detection] Attack Detected - IP: 10.0.0.10, Port: 155
+[2025-04-14 16:53:53] [Honeypot Detection] IP: 10.0.0.10, Port: 155
+[2025-04-14 16:53:53] [Honeypot Detection] IP: 10.0.0.10, Port: unknown
+[2025-04-14 16:53:53] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.6
+[2025-04-14 16:53:53] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.8
+[2025-04-14 16:53:53] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.15
+[2025-04-14 16:53:53] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.1
+[2025-04-14 16:53:53] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.22
+[2025-04-14 16:53:53] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 30 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:58] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 30 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:53:58] [Detection] Attack Detected - IP: 10.0.0.8, Port: 843
+[2025-04-14 16:53:58] [Detection] Attack Detected - IP: 10.0.0.15, Port: 302
+[2025-04-14 16:53:58] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.24
+[2025-04-14 16:53:58] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.21
+[2025-04-14 16:53:58] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.14
+[2025-04-14 16:53:58] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.21
+[2025-04-14 16:53:58] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.28
+[2025-04-14 16:53:58] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 35 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:03] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 35 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:03] [Detection] Attack Detected - IP: 10.0.0.24, Port: 99
+[2025-04-14 16:54:03] [Detection] Attack Detected - IP: 10.0.0.28, Port: 30
+[2025-04-14 16:54:03] [Honeypot Detection] IP: 10.0.0.28, Port: 30
+[2025-04-14 16:54:03] [Detection] Attack Detected - IP: 10.0.0.28, Port: 535
+[2025-04-14 16:54:03] [Honeypot Detection] IP: 10.0.0.28, Port: 535
+[2025-04-14 16:54:03] [Honeypot Detection] IP: 10.0.0.28, Port: unknown
+[2025-04-14 16:54:03] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.5
+[2025-04-14 16:54:03] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.19
+[2025-04-14 16:54:03] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.2
+[2025-04-14 16:54:03] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.2
+[2025-04-14 16:54:03] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.2
+[2025-04-14 16:54:03] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 40 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:08] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 40 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:08] [Detection] Attack Detected - IP: 10.0.0.2, Port: 154
+[2025-04-14 16:54:08] [Honeypot Detection] IP: 10.0.0.2, Port: 154
+[2025-04-14 16:54:08] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.18
+[2025-04-14 16:54:08] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.20
+[2025-04-14 16:54:08] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.3
+[2025-04-14 16:54:08] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.32
+[2025-04-14 16:54:08] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.17
+[2025-04-14 16:54:08] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 45 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:13] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 45 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:13] [Detection] Attack Detected - IP: 10.0.0.20, Port: 413
+[2025-04-14 16:54:13] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.32
+[2025-04-14 16:54:13] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.26
+[2025-04-14 16:54:13] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.11
+[2025-04-14 16:54:13] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.24
+[2025-04-14 16:54:13] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.18
+[2025-04-14 16:54:13] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 50 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:18] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 50 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:18] [Detection] Attack Detected - IP: 10.0.0.26, Port: 218
+[2025-04-14 16:54:18] [Detection] Attack Detected - IP: 10.0.0.18, Port: 689
+[2025-04-14 16:54:18] [Honeypot Detection] IP: 10.0.0.18, Port: 689
+[2025-04-14 16:54:18] [Detection] Attack Detected - IP: 10.0.0.18, Port: 241
+[2025-04-14 16:54:18] [Honeypot Detection] IP: 10.0.0.18, Port: 241
+[2025-04-14 16:54:18] [Honeypot Detection] IP: 10.0.0.18, Port: unknown
+[2025-04-14 16:54:18] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.21
+[2025-04-14 16:54:18] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.16
+[2025-04-14 16:54:18] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.18
+[2025-04-14 16:54:18] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.7
+[2025-04-14 16:54:18] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.29
+[2025-04-14 16:54:18] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 55 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:21] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 55 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:21] [Detection] Attack Detected - IP: 10.0.0.7, Port: 477
+[2025-04-14 16:54:21] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.28
+[2025-04-14 16:54:21] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.14
+[2025-04-14 16:54:21] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.16
+[2025-04-14 16:54:21] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.22
+[2025-04-14 16:54:21] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.4
+[2025-04-14 16:54:21] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 60 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:26] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 60 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:26] [Detection] Attack Detected - IP: 10.0.0.28, Port: 128
+[2025-04-14 16:54:26] [Detection] Attack Detected - IP: 10.0.0.14, Port: 931
+[2025-04-14 16:54:26] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.19
+[2025-04-14 16:54:26] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.23
+[2025-04-14 16:54:26] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.8
+[2025-04-14 16:54:26] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.18
+[2025-04-14 16:54:26] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.28
+[2025-04-14 16:54:26] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 65 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:31] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 65 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:36] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 65 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:36] [Detection] Attack Detected - IP: 10.0.0.28, Port: 656
+[2025-04-14 16:54:36] [Honeypot Detection] IP: 10.0.0.28, Port: 656
+[2025-04-14 16:54:36] [Honeypot Detection] IP: 10.0.0.28, Port: unknown
+[2025-04-14 16:54:36] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.24
+[2025-04-14 16:54:36] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.29
+[2025-04-14 16:54:36] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.14
+[2025-04-14 16:54:36] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.32
+[2025-04-14 16:54:36] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.19
+[2025-04-14 16:54:36] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 70 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:41] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 70 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:46] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 70 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:51] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 70 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:51] [Detection] Attack Detected - IP: 10.0.0.19, Port: 662
+[2025-04-14 16:54:51] [Honeypot Detection] IP: 10.0.0.19, Port: 662
+[2025-04-14 16:54:51] [Honeypot Detection] IP: 10.0.0.19, Port: unknown
+[2025-04-14 16:54:51] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.8
+[2025-04-14 16:54:51] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.31
+[2025-04-14 16:54:51] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.30
+[2025-04-14 16:54:51] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.8
+[2025-04-14 16:54:51] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.30
+[2025-04-14 16:54:51] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 75 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:54] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 75 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:54:59] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 75 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:55:04] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 75 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:55:04] [Detection] Attack Detected - IP: 10.0.0.8, Port: 525
+[2025-04-14 16:55:04] [Detection] Attack Detected - IP: 10.0.0.31, Port: 671
+[2025-04-14 16:55:04] [Detection] Attack Detected - IP: 10.0.0.8, Port: 369
+[2025-04-14 16:55:04] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.11
+[2025-04-14 16:55:04] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.14
+[2025-04-14 16:55:04] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.28
+[2025-04-14 16:55:04] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.13
+[2025-04-14 16:55:04] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.14
+[2025-04-14 16:55:04] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 80 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:55:09] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 80 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:55:14] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 80 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:55:19] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 80 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:55:19] [Detection] Attack Detected - IP: 10.0.0.14, Port: 432
+[2025-04-14 16:55:19] [Honeypot Detection] IP: 10.0.0.14, Port: 432
+[2025-04-14 16:55:19] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.25
+[2025-04-14 16:55:19] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.29
+[2025-04-14 16:55:19] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.19
+[2025-04-14 16:55:19] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.15
+[2025-04-14 16:55:19] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.19
+[2025-04-14 16:55:19] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 85 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:55:22] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 85 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:55:22] [Detection] Attack Detected - IP: 10.0.0.25, Port: 555
+[2025-04-14 16:55:22] [Detection] Attack Detected - IP: 10.0.0.19, Port: 481
+[2025-04-14 16:55:22] [Honeypot Detection] IP: 10.0.0.19, Port: 481
+[2025-04-14 16:55:22] [Detection] Attack Detected - IP: 10.0.0.19, Port: 322
+[2025-04-14 16:55:22] [Honeypot Detection] IP: 10.0.0.19, Port: 322
+[2025-04-14 16:55:22] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.6
+[2025-04-14 16:55:22] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.25
+[2025-04-14 16:55:22] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.8
+[2025-04-14 16:55:22] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.10
+[2025-04-14 16:55:22] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.6
+[2025-04-14 16:55:22] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 90 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:55:27] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 90 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:55:27] [Detection] Attack Detected - IP: 10.0.0.25, Port: 798
+[2025-04-14 16:55:27] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.26
+[2025-04-14 16:55:27] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.6
+[2025-04-14 16:55:27] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.4
+[2025-04-14 16:55:27] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.3
+[2025-04-14 16:55:27] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.12
+[2025-04-14 16:55:27] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 95 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:55:32] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 95 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:55:37] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 95 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:55:37] [Detection] Attack Detected - IP: 10.0.0.26, Port: 601
+[2025-04-14 16:55:37] [Detection] Attack Detected - IP: 10.0.0.6, Port: 438
+[2025-04-14 16:55:37] [Detection] Attack Detected - IP: 10.0.0.4, Port: 79
+[2025-04-14 16:55:37] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.8
+[2025-04-14 16:55:37] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.32
+[2025-04-14 16:55:37] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.1
+[2025-04-14 16:55:37] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.6
+[2025-04-14 16:55:37] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.25
+[2025-04-14 16:55:37] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 100 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:55:43] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 100 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:55:43] [Detection] Attack Detected - IP: 10.0.0.1, Port: 462
+[2025-04-14 16:55:43] [Detection] Attack Detected - IP: 10.0.0.25, Port: 534
+[2025-04-14 16:55:43] [Honeypot Detection] IP: 10.0.0.25, Port: 534
+[2025-04-14 16:55:43] [Honeypot Detection] IP: 10.0.0.25, Port: unknown
+[2025-04-14 16:55:43] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.2
+[2025-04-14 16:55:43] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.9
+[2025-04-14 16:55:43] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.22
+[2025-04-14 16:55:43] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.9
+[2025-04-14 16:55:43] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.2
+[2025-04-14 16:55:43] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 105 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:55:48] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 105 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:55:48] [Detection] Attack Detected - IP: 10.0.0.9, Port: 367
+[2025-04-14 16:55:48] [Detection] Attack Detected - IP: 10.0.0.22, Port: 284
+[2025-04-14 16:55:48] [Detection] Attack Detected - IP: 10.0.0.9, Port: 449
+[2025-04-14 16:55:48] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.1
+[2025-04-14 16:55:48] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.28
+[2025-04-14 16:55:48] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.9
+[2025-04-14 16:55:48] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.20
+[2025-04-14 16:55:48] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.14
+[2025-04-14 16:55:48] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 110 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:55:53] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 110 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:55:53] [Detection] Attack Detected - IP: 10.0.0.9, Port: 749
+[2025-04-14 16:55:53] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.19
+[2025-04-14 16:55:53] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.8
+[2025-04-14 16:55:53] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.2
+[2025-04-14 16:55:53] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.30
+[2025-04-14 16:55:53] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.22
+[2025-04-14 16:55:53] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 115 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:55:56] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 115 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:55:56] [Detection] Attack Detected - IP: 10.0.0.8, Port: 464
+[2025-04-14 16:55:56] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.22
+[2025-04-14 16:55:56] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.19
+[2025-04-14 16:55:56] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.14
+[2025-04-14 16:55:56] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.25
+[2025-04-14 16:55:56] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.8
+[2025-04-14 16:55:56] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 120 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:56:01] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 120 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:56:01] [Detection] Attack Detected - IP: 10.0.0.14, Port: 774
+[2025-04-14 16:56:01] [Detection] Attack Detected - IP: 10.0.0.8, Port: 759
+[2025-04-14 16:56:01] [Honeypot Detection] IP: 10.0.0.8, Port: 759
+[2025-04-14 16:56:01] [Honeypot Detection] IP: 10.0.0.8, Port: unknown
+[2025-04-14 16:56:01] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.29
+[2025-04-14 16:56:01] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.27
+[2025-04-14 16:56:01] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.13
+[2025-04-14 16:56:01] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.11
+[2025-04-14 16:56:01] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.26
+[2025-04-14 16:56:01] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 125 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:56:06] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 125 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:56:06] [Detection] Attack Detected - IP: 10.0.0.26, Port: 577
+[2025-04-14 16:56:06] [Honeypot Detection] IP: 10.0.0.26, Port: 577
+[2025-04-14 16:56:06] [Detection] Attack Detected - IP: 10.0.0.26, Port: 242
+[2025-04-14 16:56:06] [Honeypot Detection] IP: 10.0.0.26, Port: 242
+[2025-04-14 16:56:06] [Honeypot Detection] IP: 10.0.0.26, Port: unknown
+[2025-04-14 16:56:06] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.10
+[2025-04-14 16:56:06] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.28
+[2025-04-14 16:56:06] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.21
+[2025-04-14 16:56:06] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.15
+[2025-04-14 16:56:06] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.4
+[2025-04-14 16:56:06] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 130 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:56:11] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 130 | [Security: Unstable, Performance: Overused]
+[2025-04-14 16:56:11] [Detection] Attack Detected - IP: 10.0.0.10, Port: 411
+[2025-04-14 16:56:11] [Detection] Attack Detected - IP: 10.0.0.15, Port: 912
+[2025-04-14 16:56:11] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.18
+[2025-04-14 16:56:11] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.10
+[2025-04-14 16:56:11] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.8
+[2025-04-14 16:56:11] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.12
+[2025-04-14 16:56:11] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.11
+[2025-04-14 16:56:11] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 135 | [Security: Unstable, Performance: Overused]
+[2025-04-17 10:31:52] [Defender] Honeypot assigned → Datapath 5 → 10.0.0.25
+[2025-04-17 10:31:52] [Evaluator] Diversity: 0.46, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 0 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:31:57] [Evaluator] Diversity: 0.46, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 0 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:31:58] [Detection] Attack Detected - IP: 10.0.0.8, Port: 710
+[2025-04-17 10:31:58] [Detection] Attack Detected - IP: 10.0.0.25, Port: 48
+[2025-04-17 10:31:58] [Honeypot Detection] IP: 10.0.0.25, Port: 48
+[2025-04-17 10:31:58] [Honeypot Detection] IP: 10.0.0.25, Port: unknown
+[2025-04-17 10:31:58] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.2
+[2025-04-17 10:31:58] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.18
+[2025-04-17 10:31:58] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.18
+[2025-04-17 10:31:58] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.19
+[2025-04-17 10:31:58] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.14
+[2025-04-17 10:31:58] [Evaluator] Diversity: 0.38, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 5 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:00] [Evaluator] Diversity: 0.38, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 5 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:05] [Evaluator] Diversity: 0.38, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 5 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:10] [Evaluator] Diversity: 0.38, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 5 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:10] [Detection] Attack Detected - IP: 10.0.0.2, Port: 200
+[2025-04-17 10:32:10] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.26
+[2025-04-17 10:32:10] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.24
+[2025-04-17 10:32:10] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.26
+[2025-04-17 10:32:10] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.31
+[2025-04-17 10:32:10] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.8
+[2025-04-17 10:32:10] [Evaluator] Diversity: 0.38, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 10 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:15] [Evaluator] Diversity: 0.38, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 10 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:15] [Detection] Attack Detected - IP: 10.0.0.24, Port: 479
+[2025-04-17 10:32:15] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.1
+[2025-04-17 10:32:15] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.15
+[2025-04-17 10:32:15] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.26
+[2025-04-17 10:32:15] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.1
+[2025-04-17 10:32:15] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.17
+[2025-04-17 10:32:15] [Evaluator] Diversity: 0.38, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 15 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:21] [Evaluator] Diversity: 0.38, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 15 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:21] [Detection] Attack Detected - IP: 10.0.0.1, Port: 414
+[2025-04-17 10:32:21] [Detection] Attack Detected - IP: 10.0.0.15, Port: 590
+[2025-04-17 10:32:21] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.21
+[2025-04-17 10:32:21] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.4
+[2025-04-17 10:32:21] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.20
+[2025-04-17 10:32:21] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.3
+[2025-04-17 10:32:21] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.15
+[2025-04-17 10:32:21] [Evaluator] Diversity: 0.46, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 20 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:26] [Evaluator] Diversity: 0.46, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 20 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:26] [Detection] Attack Detected - IP: 10.0.0.21, Port: 248
+[2025-04-17 10:32:26] [Detection] Attack Detected - IP: 10.0.0.20, Port: 997
+[2025-04-17 10:32:26] [Detection] Attack Detected - IP: 10.0.0.20, Port: 821
+[2025-04-17 10:32:26] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.3
+[2025-04-17 10:32:26] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.13
+[2025-04-17 10:32:26] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.29
+[2025-04-17 10:32:26] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.27
+[2025-04-17 10:32:26] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.19
+[2025-04-17 10:32:26] [Evaluator] Diversity: 0.46, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 25 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:31] [Evaluator] Diversity: 0.46, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 25 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:31] [Detection] Attack Detected - IP: 10.0.0.13, Port: 641
+[2025-04-17 10:32:31] [Detection] Attack Detected - IP: 10.0.0.13, Port: 771
+[2025-04-17 10:32:31] [Detection] Attack Detected - IP: 10.0.0.29, Port: 780
+[2025-04-17 10:32:31] [Detection] Attack Detected - IP: 10.0.0.29, Port: 195
+[2025-04-17 10:32:31] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.16
+[2025-04-17 10:32:31] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.21
+[2025-04-17 10:32:31] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.1
+[2025-04-17 10:32:31] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.15
+[2025-04-17 10:32:31] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.11
+[2025-04-17 10:32:31] [Evaluator] Diversity: 0.46, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 30 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:33] [Evaluator] Diversity: 0.46, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 30 | [Security: Unstable, Performance: Efficient]
+[2025-04-17 10:32:33] [Detection] Attack Detected - IP: 10.0.0.1, Port: 889
+[2025-04-17 10:32:33] [Detection] Attack Detected - IP: 10.0.0.11, Port: 702
+[2025-04-17 10:32:33] [Honeypot Detection] IP: 10.0.0.11, Port: 702
+[2025-04-17 10:32:33] [Honeypot Detection] IP: 10.0.0.11, Port: unknown
+[2025-04-17 10:32:33] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.1
+[2025-04-17 10:32:33] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.4
+[2025-04-17 10:32:33] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.23
+[2025-04-17 10:32:33] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.24
+[2025-04-17 10:32:33] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.18
+[2025-04-17 10:32:33] [Evaluator] Diversity: 0.46, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 35 | [Security: Unstable, Performance: Efficient]

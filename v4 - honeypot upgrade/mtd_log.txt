@@ -1,291 +1,184 @@
-[2025-04-14 12:25:55] [Evaluator] Diversity: 0.09, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 0 | [Security: Unstable, Performance: Efficient]
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 20
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 22
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 73
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 190
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 298
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 318
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 329
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 335
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 388
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 405
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 481
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 492
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 495
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 517
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 583
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 596
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 683
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 705
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 723
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 737
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 780
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 782
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 826
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 839
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 842
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 899
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 923
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.5, Port: 1013
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 23
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 53
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 73
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 87
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 93
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 98
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 107
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 123
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 246
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 340
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 343
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 365
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 399
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 406
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 442
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 488
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 522
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 614
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 622
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 649
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 661
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 666
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 667
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 696
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 701
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 717
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 812
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 861
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 957
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 967
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 977
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 991
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.1, Port: 1018
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 74
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 142
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 168
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 196
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 204
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 214
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 227
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 310
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 311
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 321
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 400
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 427
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 454
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 498
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 538
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 559
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 562
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 580
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 600
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 643
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 658
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 664
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 709
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 716
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 835
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 896
-[2025-04-14 12:25:55] [Detection] Attack Detected - IP: 10.0.0.15, Port: 915
-[2025-04-14 12:25:55] [Defender] Datapath 1 → New IP: 10.0.0.25
-[2025-04-14 12:25:55] [Defender] Datapath 2 → New IP: 10.0.0.8
-[2025-04-14 12:25:55] [Defender] Datapath 3 → New IP: 10.0.0.19
-[2025-04-14 12:25:55] [Evaluator] Diversity: 0.09, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 3 | [Security: Unstable, Performance: Efficient]
-[2025-04-14 12:26:00] [Evaluator] Diversity: 0.09, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 3 | [Security: Unstable, Performance: Efficient]
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 164
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 205
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 219
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 272
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 311
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 324
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 334
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 361
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 376
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 394
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 399
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 406
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 409
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 431
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 485
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 557
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 599
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 616
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 653
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 696
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 705
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 740
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 786
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 792
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 848
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 880
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 892
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 932
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 940
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 953
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 961
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 973
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 980
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.25, Port: 1003
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 45
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 112
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 127
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 179
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 188
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 191
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 209
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 280
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 285
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 314
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 318
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 346
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 466
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 476
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 541
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 543
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 588
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 589
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 606
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 685
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 734
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 777
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 811
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 820
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 839
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 898
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 921
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 927
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 1000
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.8, Port: 1010
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 24
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 29
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 48
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 122
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 155
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 183
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 187
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 219
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 246
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 254
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 290
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 298
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 318
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 326
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 332
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 333
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 341
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 365
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 494
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 507
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 511
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 569
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 573
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 584
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 604
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 621
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 633
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 640
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 697
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 766
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 812
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 815
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 864
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 870
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 927
-[2025-04-14 12:26:00] [Detection] Attack Detected - IP: 10.0.0.19, Port: 1024
-[2025-04-14 12:26:00] [Defender] Datapath 1 → New IP: 10.0.0.8
-[2025-04-14 12:26:00] [Defender] Datapath 2 → New IP: 10.0.0.13
-[2025-04-14 12:26:00] [Defender] Datapath 3 → New IP: 10.0.0.11
-[2025-04-14 12:26:00] [Evaluator] Diversity: 0.09, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 6 | [Security: Unstable, Performance: Efficient]
-[2025-04-14 12:26:05] [Evaluator] Diversity: 0.09, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 6 | [Security: Unstable, Performance: Efficient]
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 78
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 194
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 241
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 256
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 258
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 293
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 371
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 413
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 425
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 486
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 537
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 585
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 592
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 657
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 690
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 726
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 799
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 815
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 822
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 834
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 892
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 910
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 923
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 924
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 994
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 1001
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.8, Port: 1005
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 41
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 83
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 84
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 95
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 100
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 133
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 136
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 187
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 197
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 213
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 225
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 240
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 267
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 275
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 310
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 364
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 366
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 395
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 453
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 490
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 594
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 626
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 631
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 649
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 661
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 704
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 784
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 834
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 846
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 883
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 918
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 920
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 936
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 966
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.13, Port: 1005
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 28
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 54
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 83
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 85
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 108
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 171
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 181
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 182
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 194
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 291
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 295
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 418
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 448
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 483
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 529
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 552
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 578
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 691
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 715
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 734
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 840
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 849
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 905
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 929
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 978
-[2025-04-14 12:26:05] [Detection] Attack Detected - IP: 10.0.0.11, Port: 995
-[2025-04-14 12:26:05] [Defender] Datapath 1 → New IP: 10.0.0.30
-[2025-04-14 12:26:05] [Defender] Datapath 2 → New IP: 10.0.0.31
-[2025-04-14 12:26:05] [Defender] Datapath 3 → New IP: 10.0.0.12
-[2025-04-14 12:26:05] [Evaluator] Diversity: 0.09, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 9 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:06] [Defender] Honeypot assigned → Datapath 5 → 10.0.0.12
+[2025-04-14 16:03:06] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 0 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:06] [Detection] Attack Detected - IP: 10.0.0.22, Port: 544
+[2025-04-14 16:03:06] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.27
+[2025-04-14 16:03:06] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.28
+[2025-04-14 16:03:06] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.26
+[2025-04-14 16:03:06] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.13
+[2025-04-14 16:03:06] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.32
+[2025-04-14 16:03:06] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 5 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:11] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 5 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:11] [Detection] Attack Detected - IP: 10.0.0.28, Port: 796
+[2025-04-14 16:03:11] [Detection] Attack Detected - IP: 10.0.0.13, Port: 1006
+[2025-04-14 16:03:11] [Detection] Attack Detected - IP: 10.0.0.13, Port: 129
+[2025-04-14 16:03:11] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.32
+[2025-04-14 16:03:11] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.20
+[2025-04-14 16:03:11] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.12
+[2025-04-14 16:03:11] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.4
+[2025-04-14 16:03:11] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.24
+[2025-04-14 16:03:11] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 10 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:16] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 10 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:16] [Detection] Attack Detected - IP: 10.0.0.20, Port: 294
+[2025-04-14 16:03:16] [Detection] Attack Detected - IP: 10.0.0.24, Port: 221
+[2025-04-14 16:03:16] [Honeypot Detection] IP: 10.0.0.24, Port: 221
+[2025-04-14 16:03:16] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.29
+[2025-04-14 16:03:16] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.13
+[2025-04-14 16:03:16] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.13
+[2025-04-14 16:03:16] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.25
+[2025-04-14 16:03:16] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.25
+[2025-04-14 16:03:16] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 15 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:21] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 15 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:26] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 15 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:31] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 15 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:36] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 15 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:41] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 15 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:41] [Detection] Attack Detected - IP: 10.0.0.29, Port: 65
+[2025-04-14 16:03:41] [Detection] Attack Detected - IP: 10.0.0.25, Port: 134
+[2025-04-14 16:03:41] [Honeypot Detection] IP: 10.0.0.25, Port: 134
+[2025-04-14 16:03:41] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.30
+[2025-04-14 16:03:41] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.32
+[2025-04-14 16:03:41] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.4
+[2025-04-14 16:03:41] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.24
+[2025-04-14 16:03:41] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.8
+[2025-04-14 16:03:41] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 20 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:46] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 20 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:51] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 20 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:56] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 20 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:03:56] [Detection] Attack Detected - IP: 10.0.0.4, Port: 829
+[2025-04-14 16:03:56] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.6
+[2025-04-14 16:03:56] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.26
+[2025-04-14 16:03:56] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.28
+[2025-04-14 16:03:56] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.28
+[2025-04-14 16:03:56] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.25
+[2025-04-14 16:03:56] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 25 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:01] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 25 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:06] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 25 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:06] [Detection] Attack Detected - IP: 10.0.0.6, Port: 452
+[2025-04-14 16:04:06] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.1
+[2025-04-14 16:04:06] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.31
+[2025-04-14 16:04:06] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.5
+[2025-04-14 16:04:06] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.14
+[2025-04-14 16:04:06] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.14
+[2025-04-14 16:04:06] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 30 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:11] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 30 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:11] [Detection] Attack Detected - IP: 10.0.0.31, Port: 463
+[2025-04-14 16:04:11] [Detection] Attack Detected - IP: 10.0.0.5, Port: 272
+[2025-04-14 16:04:11] [Detection] Attack Detected - IP: 10.0.0.5, Port: 792
+[2025-04-14 16:04:11] [Detection] Attack Detected - IP: 10.0.0.5, Port: 623
+[2025-04-14 16:04:11] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.17
+[2025-04-14 16:04:11] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.15
+[2025-04-14 16:04:11] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.14
+[2025-04-14 16:04:11] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.24
+[2025-04-14 16:04:11] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.22
+[2025-04-14 16:04:11] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 35 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:16] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 35 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:21] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 35 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:26] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 35 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:26] [Detection] Attack Detected - IP: 10.0.0.14, Port: 44
+[2025-04-14 16:04:26] [Detection] Attack Detected - IP: 10.0.0.14, Port: 801
+[2025-04-14 16:04:26] [Detection] Attack Detected - IP: 10.0.0.24, Port: 694
+[2025-04-14 16:04:26] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.5
+[2025-04-14 16:04:26] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.7
+[2025-04-14 16:04:26] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.16
+[2025-04-14 16:04:26] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.29
+[2025-04-14 16:04:26] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.4
+[2025-04-14 16:04:26] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 40 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:31] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 40 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:36] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 40 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:36] [Detection] Attack Detected - IP: 10.0.0.5, Port: 989
+[2025-04-14 16:04:36] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.23
+[2025-04-14 16:04:36] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.27
+[2025-04-14 16:04:36] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.12
+[2025-04-14 16:04:36] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.15
+[2025-04-14 16:04:36] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.13
+[2025-04-14 16:04:36] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 45 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:41] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 45 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:41] [Detection] Attack Detected - IP: 10.0.0.15, Port: 343
+[2025-04-14 16:04:41] [Detection] Attack Detected - IP: 10.0.0.13, Port: 769
+[2025-04-14 16:04:41] [Honeypot Detection] IP: 10.0.0.13, Port: 769
+[2025-04-14 16:04:41] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.22
+[2025-04-14 16:04:41] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.12
+[2025-04-14 16:04:41] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.4
+[2025-04-14 16:04:41] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.6
+[2025-04-14 16:04:41] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.6
+[2025-04-14 16:04:41] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 50 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:46] [Evaluator] Diversity: 0.12, Redundancy: 0.20, Shuffle Efficiency: 0.80, Energy: 50 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:46] [Detection] Attack Detected - IP: 10.0.0.6, Port: 345
+[2025-04-14 16:04:46] [Honeypot Detection] IP: 10.0.0.6, Port: 345
+[2025-04-14 16:04:46] [Detection] Attack Detected - IP: 10.0.0.6, Port: 283
+[2025-04-14 16:04:46] [Honeypot Detection] IP: 10.0.0.6, Port: 283
+[2025-04-14 16:04:46] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.17
+[2025-04-14 16:04:46] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.5
+[2025-04-14 16:04:46] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.13
+[2025-04-14 16:04:46] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.30
+[2025-04-14 16:04:46] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.2
+[2025-04-14 16:04:46] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 55 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:51] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 55 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:51] [Detection] Attack Detected - IP: 10.0.0.5, Port: 792
+[2025-04-14 16:04:51] [Detection] Attack Detected - IP: 10.0.0.13, Port: 121
+[2025-04-14 16:04:51] [Detection] Attack Detected - IP: 10.0.0.13, Port: 384
+[2025-04-14 16:04:51] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.14
+[2025-04-14 16:04:51] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.1
+[2025-04-14 16:04:51] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.21
+[2025-04-14 16:04:51] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.5
+[2025-04-14 16:04:51] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.7
+[2025-04-14 16:04:51] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 60 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:56] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 60 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:04:56] [Detection] Attack Detected - IP: 10.0.0.14, Port: 262
+[2025-04-14 16:04:56] [Detection] Attack Detected - IP: 10.0.0.5, Port: 765
+[2025-04-14 16:04:56] [Detection] Attack Detected - IP: 10.0.0.7, Port: 385
+[2025-04-14 16:04:56] [Honeypot Detection] IP: 10.0.0.7, Port: 385
+[2025-04-14 16:04:56] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.7
+[2025-04-14 16:04:56] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.14
+[2025-04-14 16:04:56] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.26
+[2025-04-14 16:04:56] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.30
+[2025-04-14 16:04:56] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.8
+[2025-04-14 16:04:56] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 65 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:05:01] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 65 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:05:01] [Detection] Attack Detected - IP: 10.0.0.30, Port: 447
+[2025-04-14 16:05:01] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.15
+[2025-04-14 16:05:01] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.10
+[2025-04-14 16:05:01] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.24
+[2025-04-14 16:05:01] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.24
+[2025-04-14 16:05:01] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.15
+[2025-04-14 16:05:01] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 70 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:05:06] [Evaluator] Diversity: 0.09, Redundancy: 0.40, Shuffle Efficiency: 0.60, Energy: 70 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:05:06] [Detection] Attack Detected - IP: 10.0.0.24, Port: 882
+[2025-04-14 16:05:06] [Detection] Attack Detected - IP: 10.0.0.15, Port: 1010
+[2025-04-14 16:05:06] [Honeypot Detection] IP: 10.0.0.15, Port: 1010
+[2025-04-14 16:05:06] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.23
+[2025-04-14 16:05:06] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.29
+[2025-04-14 16:05:06] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.19
+[2025-04-14 16:05:06] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.1
+[2025-04-14 16:05:06] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.2
+[2025-04-14 16:05:06] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 75 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:05:11] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 75 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:05:16] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 75 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:05:16] [Detection] Attack Detected - IP: 10.0.0.23, Port: 80
+[2025-04-14 16:05:16] [Detection] Attack Detected - IP: 10.0.0.29, Port: 976
+[2025-04-14 16:05:16] [Detection] Attack Detected - IP: 10.0.0.19, Port: 79
+[2025-04-14 16:05:16] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.20
+[2025-04-14 16:05:16] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.9
+[2025-04-14 16:05:16] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.15
+[2025-04-14 16:05:16] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.17
+[2025-04-14 16:05:16] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.7
+[2025-04-14 16:05:16] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 80 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:05:21] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 80 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:05:21] [Detection] Attack Detected - IP: 10.0.0.15, Port: 52
+[2025-04-14 16:05:21] [Detection] Attack Detected - IP: 10.0.0.7, Port: 942
+[2025-04-14 16:05:21] [Honeypot Detection] IP: 10.0.0.7, Port: 942
+[2025-04-14 16:05:21] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.20
+[2025-04-14 16:05:21] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.5
+[2025-04-14 16:05:21] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.18
+[2025-04-14 16:05:21] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.1
+[2025-04-14 16:05:21] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.3
+[2025-04-14 16:05:21] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 85 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:05:26] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 85 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:05:31] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 85 | [Security: Unstable, Performance: Efficient]
+[2025-04-14 16:05:31] [Detection] Attack Detected - IP: 10.0.0.1, Port: 691
+[2025-04-14 16:05:31] [Defender] [NORMAL] Datapath 1 IP changed to 10.0.0.14
+[2025-04-14 16:05:31] [Defender] [NORMAL] Datapath 2 IP changed to 10.0.0.19
+[2025-04-14 16:05:31] [Defender] [NORMAL] Datapath 3 IP changed to 10.0.0.24
+[2025-04-14 16:05:31] [Defender] [NORMAL] Datapath 4 IP changed to 10.0.0.25
+[2025-04-14 16:05:31] [Defender] [HONEYPOT] Datapath 5 IP changed to 10.0.0.20
+[2025-04-14 16:05:31] [Evaluator] Diversity: 0.16, Redundancy: 0.00, Shuffle Efficiency: 1.00, Energy: 90 | [Security: Unstable, Performance: Efficient]

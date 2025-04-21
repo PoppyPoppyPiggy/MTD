@@ -1,0 +1,49 @@
+# drone_fleet/docker-compose.yml
+version: '3.8'
+
+services:
+  honeydrone1:
+    build: .
+    container_name: honeydrone1
+    networks:
+      drone_net:
+        ipv4_address: 172.20.0.10
+    ports:
+      - "2222:22"
+      - "8080:80"
+    environment:
+      - DECOY=true
+
+  realdrone1:
+    build: .
+    container_name: realdrone1
+    networks:
+      drone_net:
+        ipv4_address: 172.20.0.11
+    environment:
+      - ROLE=mission
+
+  realdrone2:
+    build: .
+    container_name: realdrone2
+    networks:
+      drone_net:
+        ipv4_address: 172.20.0.12
+    environment:
+      - ROLE=mission
+
+  honeydrone2:
+    build: .
+    container_name: honeydrone2
+    networks:
+      drone_net:
+        ipv4_address: 172.20.0.13
+    environment:
+      - DECOY=true
+
+networks:
+  drone_net:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16
